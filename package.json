@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "helmet": "^3.23.3",
     "mongoose": "^5.9.21",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0"
